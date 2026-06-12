@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "name": "南风XC",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-    },
-    {
       "name": "Anbox Live",
       "url": "http://tv.anbox.dpdns.org/live"
     },
