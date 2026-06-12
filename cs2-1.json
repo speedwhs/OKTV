@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "name": "南风XC",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    },
+    {
+      "name": "Anbox Live",
+      "url": "http://tv.anbox.dpdns.org/live"
+    },
+    {
+      "name": "Anbox Live4",
+      "url": "http://tv.anbox.dpdns.org/live4"
+    },
+    {
+      "name": "Anbox Live8",
+      "url": "http://tv.anbox.dpdns.org/live8"
+    },
+    {
+      "name": "Anbox Live40",
+      "url": "http://tv.anbox.dpdns.org/live40"
+    },
+    {
+      "name": "1080直播",
+      "url": "http://xtvantsc.xyz/1080.m3u"
+    }
+  ]
+}
